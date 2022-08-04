@@ -49,6 +49,3 @@ Where return_rate is not null
 
 ---***---
 
-
-
-
